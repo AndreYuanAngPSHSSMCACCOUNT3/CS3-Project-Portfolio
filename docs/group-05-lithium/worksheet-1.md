@@ -9,12 +9,12 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
+| **Team Members**           | 1. Ang, Andre Yuan|
+|                            | 2. Baloca, Ona Kolme|
+|                            | 3. Libradilla, Lenor Anne|
+|                            | 4. Galvez, Radcliff|
+|                            | 5. Guy-Ab, Princess Ciala Ysha|
+|                            | 6. Daniel John Bustamante|
 | **PSHS-DRC Area/Location** |         |
 
 ---
