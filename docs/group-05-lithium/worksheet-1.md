@@ -84,7 +84,7 @@
 | User/Role | Possible Use |
 | --------- | ------------ |
 | 1. Student  | Use the system to file for their admission slip online  as it is more efficient than submitting it in person. |
-| 2.   Registrar  |     Use this system to make their job easier as it reduces the need to manually process a large number of students and physical copies. |
+| 2. Registrar  |     Use this system to make their job easier as it reduces the need to manually process a large number of students and physical copies. |
 
 ### 3. What are the essential features?
 
