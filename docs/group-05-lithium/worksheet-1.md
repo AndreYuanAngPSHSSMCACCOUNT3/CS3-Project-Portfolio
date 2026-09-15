@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> Our team observed that the current process of filing for admission slips can be inefficient. The student's respnsibility of queuing, filing, submitting documents and the registrar's duty of handling the admission slips can be time consuming.
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> The purpose of this process is for a student to file an admission slip to be excused for their absence, tardiness, or cut classes.
 
 <br>
 
