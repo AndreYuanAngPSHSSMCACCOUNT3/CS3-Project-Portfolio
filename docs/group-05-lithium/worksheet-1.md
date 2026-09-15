@@ -15,7 +15,7 @@
 |                            | 4. Galvez, Radcliff|
 |                            | 5. Guy-Ab, Princess Ciala Ysha|
 |                            | 6. Daniel John Bustamante|
-| **PSHS-DRC Area/Location** |         |
+| **PSHS-DRC Area/Location** | Academic Building One        |
 
 ---
 
