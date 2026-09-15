@@ -8,7 +8,7 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |         |
+| **Proposed Project Title** |      Project L.A.S.T. (‎Lightwork Admission Slip Technology)   |
 | **Team Members**           | 1. Ang, Andre Yuan|
 |                            | 2. Baloca, Ona Kolme|
 |                            | 3. Libradilla, Lenor Anne|
@@ -39,18 +39,18 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1.  Student        | Their responsibility is to file for their admission slip if they're late, tardy, or absent.                               |
+| 2.  Registrar        | They facilitate the admission slip process and determine if a student is excused or not.                              |
 
 ### 4. What are the steps in the current process?
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| 1    |Queue in line for admission slip. | Student|
+| 2    |Give a physical copy of the admission slip to the students and instruct what they need to do.|Registrar|
+| 3    | File an admission, fill in all the requirements both online and in a physical copy.              | Student|
+| 4    |Find all the involved people in person and ask them to sign the admission and submit the other required documents.                | Student |
+| 5    |Manually determine whether a student is excused or unexcused.               |  Registrar |
 
 ---
 
@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> We found the registrar process, specifically the process of filing an admission slip, a bit inefficient. Knowing that being late/absent/cutting classes can sometimes happen and at times, cannot be prevented, we find this process a bit too long and the fact that it requires manually finding all the teachers is a bit tiring and can be improved. We believe that although the current process is functioning well and is providing enough to accommodate students, it can be evolutionized/modernalized, using technology.
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> We believe that the following parts of this process could be improved: (1) finding the teachers manually and (2) the filling of requirements on paper. 
 
 <br>
 
@@ -92,6 +92,6 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1. Immediate Notification   |This ensures that each person involved is notified once the previous step is done. This is useful as this reduces the need to approach them in person and saves the time of all parties.         |
+| 2. Comment Section   |This allows the teachers and other users involved to leave comments and notify what they need of the student. This removes the need to find that student in person just to communicate concerns.     |
+| 3. Record    |This feature automatically records  a student's admission slip in the system. This makes it easier to keep track of the submissions and retrieve them if needed.    |
