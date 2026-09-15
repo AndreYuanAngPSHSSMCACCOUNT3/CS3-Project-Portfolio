@@ -74,7 +74,8 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> We would create a system where a student can file an admission slip through only a link and the process is entirely online. The system we propose is that once a student fills out the admission form it will notify the people involved like the teachers whose periods were affected by the student’s tardiness or absence, as well as the health services or guidance unit if necessary. The people involved can acknowledge that they've seen the student's admission slip by uploading their e-signature. If they have comments or need something from the student, they can leave a note in the system. After all of the needed people have acknowledged it, it will automatically be sent to the registrar. Then the registrar will determine if the student is excused or unexcused with just a click between the two options. After a decision is made, the system will record all the data in the registration system and then send it to the student’s homeroom adviser who will write down the decision of the registrar made in the student record. Once that is done, the admission slip process is complete.
+
 
 <br>
 
@@ -82,8 +83,8 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1. Student  | Use the system to file for their admission slip online  as it is more efficient than submitting it in person. |
+| 2.   Registrar  |     Use this system to make their job easier as it reduces the need to manually process a large number of students and physical copies. |
 
 ### 3. What are the essential features?
 
